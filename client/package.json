@@ -13,7 +13,8 @@
     "react-facebook-login": "^4.1.1",
     "react-scripts": "3.4.0",
     "react-transition-group": "^4.3.0",
-    "reactstrap": "^8.4.1"
+    "reactstrap": "^8.4.1",
+    "uuid": "^7.0.2"
   },
   "scripts": {
     "start": "HTTPS=true react-scripts start",
